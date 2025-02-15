@@ -1,3 +1,4 @@
+## ASSESSMENT PREPARATION CONTENT
 ### Data Architecture Principles and Enterprise Data Architecture (13%)
 - Describe the various databases and their application.
 - Identify different tools for transferring data in and out of the Cloud.
